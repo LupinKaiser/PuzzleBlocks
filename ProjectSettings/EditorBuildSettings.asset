@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: f8b563b736138864c9741df2b43a4611
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 41de5207c17a82c4aa607740eaad14b0
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 8f0fad5a23ae52b449f25503fe78f42d
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 5c62e634720ee204c81d1275cfeba71a
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 7c2800dd19f152e4bb2088ff3e8f2903
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: c8988381535ba5746bed074bcc8c0da5
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: d0e2c24e63b61b548903674cdf7e95c1
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 7a760d9d075bb0748ad6f0b6737891ec
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: d119bac9839c61e4ab2b09b0d5626acc
+  - enabled: 1
+    path: Assets/Scenes/SuperWin!.unity
+    guid: 785d4c2ecac73f6409834dd3dc501b54
+  m_configObjects: {}
